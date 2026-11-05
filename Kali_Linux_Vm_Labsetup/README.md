@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
 </p>
-<p align="center"> <a href="https://lnkd.in/p/d65XMnmS"> Click here for LinkedIN Pist</a></p>
+<p align="center"> <a href="https://lnkd.in/p/d65XMnmS"> Click here for LinkedIn Pist</a></p>
 
 <h3>Downloading Virtual Box And Kali Linux ISO file </h3>
 <p>To get started,VIrtual box must be downloaded from its official website and installed on your machine. As it installs you can attempt to download the official Kali Linux iso file. Now there is an option to either download the file and set it up yourself which can take hours or you can download a version that has already been set up. All you have to do is to extract the file -because it will be compressed- and import it with Virtual box (username and password is "kali").
